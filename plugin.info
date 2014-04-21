@@ -1,0 +1,9 @@
+{
+	"title": "$:/plugins/bj/vocabs",
+	"description": "vocabs are refinements of mime-types",
+	"author": "Jeffrey Wilkinson",
+	"version": "0.0.1-alpha",
+	"core-version": ">=5.0.8",
+	"source": "https://github.com/buggyj/TW5-vocabs",
+	"plugin-type": "plugin"
+}

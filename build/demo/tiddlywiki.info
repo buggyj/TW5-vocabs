@@ -1,0 +1,13 @@
+{
+	"plugins": [
+		"bj/vocabs"
+	],
+	"themes": [
+		"tiddlywiki/vanilla",
+		"tiddlywiki/snowwhite"
+	],
+	"doNotSave": [
+	],
+	"includeWikis": [
+	]
+}
